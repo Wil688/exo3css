@@ -1,0 +1,84 @@
+
+ #frame{
+     width: 800px;
+     height: 400px;
+     margin: auto;
+     padding: 50px;
+ }
+/*ligne1*/
+#ligne1{
+    width: 100%;
+    height: 50px;
+    
+}
+#green{
+    width: 80%;
+    float: left;
+    height: 50px;
+    background: #2ecc71;
+}
+#blue{
+    width: 20%;
+    height: 50px;
+    background:#2980b9;
+    float: right;
+}
+/*ligne2*/
+#ligne2{
+    width: 100%;
+    height: 100px;
+}
+#red{
+    width: 30%;
+    height: 100px;
+    background: #e74c3c;
+    float: left;
+}
+#multicolor{
+    width: 70%;
+    float: right;
+}
+#r1{
+    width: 100%;
+}
+#orange{
+    width: 50%;
+    height: 50px;
+    background: orange;
+    float: left;
+}
+#grey{
+    width: 50%;
+    height: 50px;
+    background: #95a5a6;
+    float: right;
+}
+#r2{
+    width: 100%;
+    height: 20%;
+}
+#yellow{
+    width: 35%;
+    height: 50px;
+    background: #f39c12;
+    float: left;
+}
+#cyan{
+    background: #16a085;
+    height: 50px;
+    width: 30%;
+    float: left;
+    
+}
+#orange2{
+    width: 35%;
+    height: 50px;
+    background: #d35400;
+    float: right;
+}
+/*ligne3*/
+#ligne3{
+    height: 250px;
+    width: 100%;
+    background: #2c3e50;
+}
