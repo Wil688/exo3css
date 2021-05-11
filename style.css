@@ -1,7 +1,7 @@
 
  #frame{
      width: 800px;
-     height: 400px;
+     height: 300px;
      margin: auto;
      padding: 50px;
  }
@@ -78,7 +78,7 @@
 }
 /*ligne3*/
 #ligne3{
-    height: 250px;
+    height: 150px;
     width: 100%;
     background: #2c3e50;
 }
